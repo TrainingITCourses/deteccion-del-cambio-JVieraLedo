@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/deteccion-del-cambio-JVieraLedo.iml" filepath="$PROJECT_DIR$/.idea/deteccion-del-cambio-JVieraLedo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/changeDetectionJVL.iml" filepath="$PROJECT_DIR$/.idea/changeDetectionJVL.iml" />
     </modules>
   </component>
 </project>
